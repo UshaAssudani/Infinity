@@ -1,8 +1,8 @@
-Smart Home Automation Website
+🏠 Smart Home Automation Website
 
 This is a simple website project created using HTML, CSS, Bootstrap, and JavaScript. The website shows different services and departments available in a smart society such as security, grocery, and government services.
 
-Features
+⭐ Features
 
 Simple and responsive website
 
@@ -12,7 +12,7 @@ Easy navigation between pages
 
 Contact page for user information
 
-Technologies Used
+🛠 Technologies Used
 
 HTML
 
@@ -22,7 +22,7 @@ Bootstrap
 
 JavaScript
 
-Project Files
+📂 Project Files
 
 index.html – Main homepage
 
@@ -40,15 +40,17 @@ Society Department.html – Society information
 
 plugins – Additional files used in the project
 
-How to Run
+▶ How to Run
 
 Download the project folder.
 
-Open the folder.
+🎯 Open the folder.
 
 Double click index.html to run the website.
 
-Author
+👨‍💻 Author
+
+Usha Assudani
 
 Usha Assudani
 BCA Student
